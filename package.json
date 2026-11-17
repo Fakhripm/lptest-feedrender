@@ -53,6 +53,7 @@
   },
   "pnpm": {
     "overrides": {
+      "defu": "6.1.5",
       "@vue/server-renderer": "3.5.42"
     }
   }
